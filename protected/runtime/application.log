@@ -3308,3 +3308,28 @@ Stack trace:
 REQUEST_URI=/ceypa/js/collapse.js
 HTTP_REFERER=http://localhost/ceypa/
 ---
+2014/06/13 13:41:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/06/13 13:41:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/06/13 13:41:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
