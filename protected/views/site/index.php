@@ -1,109 +1,153 @@
-<div id="principal" class="jumbotron">
-    <br/>
-    <br/>
-    <div class="container">
-        <div class="col-lg-7 col-md-7 col-sm-6"></div>
-            
-        <div class="col-lg-5 col-md-5 col-sm-6">
-            <h2>Centro de Estudios y Perfeccionamiento Andino</h2>
-            <p>Capacitaciones y cursos certificados del area de la salud</p>
-            <p><a class="btn btn-info btn-lg" role="button">Contactanos</a></p>
-        </div>
-    </div>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-</div>
+<style>
+.hsContainer {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    opacity: 0;
+}
+.hsContent {
+    max-width: 450px;
+    margin: -150px auto 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+    color: #ebebeb;
+    padding: 0 8%;
+    text-align: center
+}
+.bcg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+/* Slide 1 */
+#slide-1 .bcg {background-image:url('images/fondo3.jpg')}
 
+#style{
+    text-align: center;
+    position:fixed;
+    width: 100%;
+    margin-top: 200px;
+    color: #fff;
+}
 
-
-
-<div style="padding-top: 50px;">
+@media (max-width: 767px) {
+    #style{
+       font-size: 26px;
+       margin-top: 100px;
+    }
     
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-2">
-                
-            </div>
-            <div class="col-lg-8">
-                <h1 style="text-align: center;">Escríbenos o llámanos, responderemos a la brevedad </h1>
+    .bcg {
+        height: 360px;
+    }
+}
 
-                <?php if(Yii::app()->user->hasFlash('contact')): ?>
+@media (min-width: 768px) and (max-width: 991px) {
+    #style{
+        font-size: 40px;
+        margin-top: 200px;
+    }
+    
+    .bcg {
+        height: 500px;
+    }
+}
 
-                <div class="flash-success">
-                        <?php echo Yii::app()->user->getFlash('contact'); ?>
+@media (min-width: 992px) and (max-width: 1199px) {
+    #style{
+        font-size: 50px;
+        margin-top: 200px;
+    }
+    
+    .bcg {
+        height: 600px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #style{
+        font-size: 65px;
+        margin-top: 250px;
+    }
+    
+    .bcg {
+        height: 700px;
+    }
+}
+
+#cotizar{
+    background-color: #fff;
+    
+    -webkit-transition: background-color 0.3s ease;
+    -moz-transition: background-color 0.3s ease;
+    -o-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;
+
+}
+
+#cotizar:hover{
+    background-color: #099fdc;
+    color: #fff;
+}
+
+</style>
+    
+    
+<section id="slide-1" class="homeSlide">
+    <div class="bcg"
+        data-center="background-position: 50% 0px;"
+        data-top-bottom="background-position: 50% -100px;"
+        data-anchor-target="#slide-1"
+    >
+        <div id="style" data-100="opacity:1;"  data-350="opacity:0;" data-700="opacity:0;" >
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p style="font-weight: 100;">CENTRO DE ESTUDIOS Y </p>
+                        <p>PERFECCIONAMIENTO ANDINO</P>
                 </div>
-
-                <?php else: ?>
-
-
-                <div class="form">
-
-                <?php $form=$this->beginWidget('CActiveForm', array(
-                        'id'=>'contact-form',
-                        'enableClientValidation'=>true,
-                        'clientOptions'=>array(
-                                'validateOnSubmit'=>true,
-                        ),
-                )); ?>
-
-                        <div class="form-group">
-                                <?php echo $form->labelEx($model,'name',array('class'=>'control-label')); ?>
-                                <?php echo $form->textField($model,'name',array('class'=>'form-control')) ?>
-                                <?php echo $form->error($model,'name',array('class'=>'alert alert-danger')); ?>
-                        </div>
-
-                        <div class="form-group">
-                                <?php echo $form->labelEx($model,'email',array('class'=>'control-label')); ?>
-                                <?php echo $form->textField($model,'email',array('class'=>'form-control')) ?>
-                                <?php echo $form->error($model,'email',array('class'=>'alert alert-danger')); ?>
-                        </div>
-
-                        <div class="form-group">
-                                <?php echo $form->labelEx($model,'subject',array('class'=>'control-label')); ?>
-                                <?php echo $form->textField($model,'subject',array('size'=>60,'maxlength'=>128, 'class'=>'form-control')) ?>
-                                <?php echo $form->error($model,'subject',array('class'=>'alert alert-danger')); ?>
-                        </div>
-
-                        <div class="form-group">
-                                <?php echo $form->labelEx($model,'body',array('class'=>'control-label')); ?>
-                                <?php echo $form->textArea($model,'body',array('rows'=>6, 'cols'=>50, 'class'=>'form-control')) ?>
-                                <?php echo $form->error($model,'body',array('class'=>'alert alert-danger')); ?>
-                        </div>
-
-                        <?php if(CCaptcha::checkRequirements()): ?>
-                        <div class="form-group">
-                                <?php echo $form->labelEx($model,'verifyCode',array('class'=>'control-label')); ?>
-                                <div>
-                                <?php $this->widget('CCaptcha'); ?>
-                                <?php echo $form->textField($model,'verifyCode',array('class'=>'form-control')) ?>
-                                </div>
-                                <?php echo $form->error($model,'verifyCode',array('class'=>'alert alert-danger')); ?>
-                        </div>
-                        <?php endif; ?>
-
-                        <div class="form-group">
-                                <?php echo CHtml::submitButton('enviar',array('class'=>'btn btn-primary')); ?>
-                        </div>
-
-                <?php $this->endWidget(); ?>
-
-                </div><!-- form -->
-
-                <?php endif; ?>
-
-            </div>
-            <div class="col-lg-2">
-                
             </div>
         </div>
     </div>
+</section>
+
+
+<div class="container-fluid" >
+    <div class="row" style="margin-top: 50px;">
+        <div class="col-lg-4">
+            <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+                commodo ligula eget dolor. Aenean massa. 
+                Cum sociis natoque penatibus et magnis dis parturient montes, 
+                nascetur ridiculus mus.</p>
+        </div>
+        <div class="col-lg-4">
+            <h3 style="text-align: center; font-weight: 300;">Nuestra Visión</h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+                commodo ligula eget dolor. Aenean massa. 
+                Cum sociis natoque penatibus et magnis dis parturient montes, 
+                nascetur ridiculus mus.</p>
+        </div>
+        <div class="col-lg-4">
+            <h3 style="text-align: center; font-weight: 300;">¿Qué puedes encontrar?</h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+                commodo ligula eget dolor. Aenean massa. 
+                Cum sociis natoque penatibus et magnis dis parturient montes, 
+                nascetur ridiculus mus.</p>
+        </div>
+    </div>
     
-
-
+    
+    <div class="row" style="margin-top: 50px;">
+        <div id="cotizar" class="col-lg-12" style="min-height: 70px; padding-top: 60px; padding-bottom: 60px; border-bottom: 2px solid #D8D8D8; border-top: 2px solid #D8D8D8;">
+            <h1 style="padding: 0px; margin: 0px; text-align: center; font-weight: 300; font-size: 26px;">Solicitar cotización para curso <span class="glyphicon glyphicon-share-alt"></span></h1>
+            
+        </div>
+    </div>
+    
 </div>

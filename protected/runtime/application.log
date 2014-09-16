@@ -3333,3 +3333,2037 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/ceypa/images/sol.ico
 ---
+2014/06/26 17:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/06/26 17:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/06/26 17:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/06/27 11:36:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/06/27 11:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/06/27 11:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/04 12:22:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/04 12:22:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/04 12:22:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/09 12:35:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/09 12:35:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/09 12:35:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:08:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/15 09:08:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:08:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/15 09:57:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:57:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:57:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:58:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:58:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 09:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:04:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:04:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:06:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:06:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:06:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:07:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:07:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:07:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:07:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:14:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:14:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:15:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:15:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:17:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:17:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:18:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:18:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:19:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:21:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:21:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:22:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:24:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:24:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:40:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:41:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:46:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:46:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:46:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:47:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:48:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:48:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:51:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:51:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:56:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:57:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:58:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:58:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:59:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:59:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 10:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:01:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:02:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:03:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:03:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/fondo2.2.jpg"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/fondo2.2...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/fondo2.2.jpg
+HTTP_REFERER=http://localhost/ceypa/css/main_skrollr.css
+---
+2014/09/15 11:03:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:03:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/fondo2.2.jpg"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/fondo2.2...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/fondo2.2.jpg
+HTTP_REFERER=http://localhost/ceypa/css/main_skrollr.css
+---
+2014/09/15 11:04:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:04:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:04:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:05:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:06:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:37:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:38:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:39:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:40:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:42:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:43:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:43:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:43:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:44:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:44:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:46:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:47:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:47:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:47:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:47:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:48:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:49:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 11:50:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 12:39:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 12:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 12:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 14:06:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 14:08:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 14:09:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 14:09:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 14:09:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:01:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:01:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:10:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:12:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:12:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/vendor/modernizr-2.7.1.min.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/vendor/moder...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/vendor/modernizr-2.7.1.min.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:16:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:16:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:16:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:19:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:19:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:28:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:35:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:36:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:37:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:38:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:40:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:40:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:44:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/15 16:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "js/collapse.js"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('js/collapse.js')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/js/collapse.js
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/16 11:06:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/mano_celular.png"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/mano_cel...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/mano_celular.png
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/16 16:25:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/16 16:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/bootstrap.css.map"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap.c...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/css/bootstrap.css.map
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/16 16:32:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/sans-serif.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/sans-seri...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/sans-serif.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:32:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/sans-serif.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/sans-seri...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/sans-serif.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:36:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Regular.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Re...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Regular.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:36:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Regular.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Re...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Regular.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:49:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Regular.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Re...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Regular.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:49:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Regular.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Re...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Regular.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:50:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Light.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Li...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Light.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---
+2014/09/16 16:50:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "fonts/Roboto-Regular.tiff"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/Roboto-Re...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/fonts/Roboto-Regular.tiff
+HTTP_REFERER=http://localhost/ceypa/css/init.css
+---

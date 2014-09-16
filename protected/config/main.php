@@ -10,7 +10,7 @@ return array(
 	'name'=>'ceypa',
         'sourceLanguage' => 'es',
         'language'=>'es',
-        'theme'=>'construccion',
+        'theme'=>'bootstrap',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
