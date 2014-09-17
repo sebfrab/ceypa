@@ -97,7 +97,7 @@
 
 </style>
     
-    
+<div id="skrollr-body">
 <section id="slide-1" class="homeSlide">
     <div class="bcg"
         data-center="background-position: 50% 0px;"
@@ -115,7 +115,7 @@
         </div>
     </div>
 </section>
-
+</div>   
 
 <div class="container-fluid" >
     <div class="row" style="margin-top: 50px;">
