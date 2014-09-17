@@ -54,9 +54,9 @@
                                             'id'=>'menu',
                                         ),
                                         'items'=>array(
-                                                array('label'=>'<span class="glyphicon glyphicon-thumbs-up"></span> NOSOTROS', 'url'=>'./'),
-                                                array('label'=>'<span class="glyphicon glyphicon-pushpin"></span> CURSOS', 'url'=>'./'),
-                                                array('label'=>'<span class="glyphicon glyphicon-signal"></span> EXPERIENCIA', 'url'=>'./'),
+                                                array('label'=>'<span class="glyphicon glyphicon-thumbs-up"></span> NOSOTROS', 'url'=>'./#nosotros'),
+                                                array('label'=>'<span class="glyphicon glyphicon-pushpin"></span> CURSOS', 'url'=>'./#cursos'),
+                                                array('label'=>'<span class="glyphicon glyphicon-signal"></span> EXPERIENCIA', 'url'=>'./#experiencia'),
                                                 array('label'=>'<span class="glyphicon glyphicon-envelope"></span> CONTACTO', 'url'=>'#'),
                                         ),
                                     'encodeLabel' => false,
@@ -89,6 +89,10 @@
     
         $(document).ready(function() {
             $("#owl-demo").owlCarousel({
+                navigation : false
+            });
+            
+            $("#owl-demo2").owlCarousel({
                 navigation : false
             });
         });

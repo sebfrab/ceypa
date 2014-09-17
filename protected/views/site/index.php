@@ -94,7 +94,6 @@
 
 #cotizar{
     background-color: #fff;
-    
     -webkit-transition: background-color 0.3s ease;
     -moz-transition: background-color 0.3s ease;
     -o-transition: background-color 0.3s ease;
@@ -110,7 +109,7 @@ p{
 }
 
 #owl-demo .item{
-    background: rgba(255, 253, 77, 0.3);
+    /*background: rgba(255, 253, 77, 0.3);*/
     padding: 2px 1px 2px 1px;
     margin: 10px;
     color: #FFF;
@@ -121,6 +120,22 @@ p{
 }
 
 #owl-demo .item img{
+    width: 100%;
+    opacity: 2.0;
+}
+
+#owl-demo2 .item{
+    /*background: rgba(255, 253, 77, 0.3);*/
+    padding: 2px 1px 2px 1px;
+    margin: 10px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#owl-demo2 .item img{
     width: 100%;
     opacity: 2.0;
 }
@@ -148,7 +163,7 @@ p{
 
 
 <div class="container-fluid" >
-    <div class="row" style="margin-top: 50px;">
+    <div class="row" style="margin-top: 50px;" id="nosotros">
         <div class="col-lg-4 col-md-4 col-sm-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
             <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-thumbs-up col-lg-2 col-md-2 hidden-sm hidden-xs"></span>
@@ -194,9 +209,9 @@ p{
     </div>
     
     
-    <div class="row" style="margin-top: 70px;">
+    <div class="row" style="margin-top: 100px;" id="cursos">
         <div  id="row">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-2">
                     <h3>Cursos</h3>
                     <p style="text-align: justify;">
                         Impartimos cursos de capacitación en todo Chile,
@@ -205,19 +220,36 @@ p{
                         
                     </p>
                 </div>
-                <div class="col-lg-9">
+                <div class="col-lg-9 col-md-10">
                     <div id="owl-demo" class="owl-carousel owl-theme">
-                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/1.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/1rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/2.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/3.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/4.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/5.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/1.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/1rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/2.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/3.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/4.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/5.jpg" alt="La Rompepaga"/></a></div>
                     </div>
                 </div>
         </div>
     </div>
     
-    <div class="row" style="margin-top: 70px;">
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <div class="row" style="margin-top: 100px;" id="experiencia">
+        <div style="border-top: 1px solid #D8D8D8;" class="col-lg-12">
+            <div class="col-lg-5 col-md-5 col-sm-4 col-xs-1"></div>
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-10">
+                <h3 style="text-align: center; background-color: #fff; margin-top: -15px;">Experiencia</h3>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-4 col-xs-1"></div>
+        </div>
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div id="owl-demo2" class="owl-carousel owl-theme">
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_quilpue.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/municipalidad_alto_hospicio.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_metropolitano.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_uvm.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_gustavo_fricke.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_van_buren.jpg" alt="La Rompepaga"/></a></div>
+                    </div>
+                </div>
     </div>
 </div>
