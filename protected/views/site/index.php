@@ -209,7 +209,7 @@ p{
     </div>
     
     
-    <div class="row" style="margin-top: 100px;" id="cursos">
+    <div class="row" style="margin-top: 70px;" id="cursos">
         <div  id="row">
                 <div class="col-lg-3 col-md-2">
                     <h3>Cursos</h3>
