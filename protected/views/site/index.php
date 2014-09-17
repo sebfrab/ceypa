@@ -214,7 +214,10 @@ p{
                         <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/5.jpg" alt="La Rompepaga"/></a></div>
                     </div>
                 </div>
-            </div>
+        </div>
     </div>
     
+    <div class="row" style="margin-top: 70px;">
+        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    </div>
 </div>
