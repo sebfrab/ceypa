@@ -34,8 +34,8 @@
                 <div class="navbar-default navbar-collapse">
                     <div class="container">
                         <div style="text-align: right;" class="col-lg-12 hidden-xs">
-                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt"> 96836377</a>
-                            <a class="glyphicon glyphicon-envelope"> contacto@ceypa.cl</a>
+                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">56 996836377</a>
+                            <a class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a>
                         </div>
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".bs-js-navbar-collapse">
@@ -70,8 +70,52 @@
         
     
     <?php echo $content; ?>
+    <div class="container-fluid" style="height: 20px; background: url('images/footer_bg_shadow.png') repeat-x scroll left top transparent; background-color: #099fdc; margin-top: 30px; ">
+    </div>
     
-    
+    <div class="container-fluid" style="background-color: #099fdc; padding-top: 60px;">
+        <div class="row">
+            <div class="col-lg-4">
+                <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/ceypaLogo.jpg" style="margin-bottom: 10px;" />
+                <p style="color: #fff;">
+                    orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+                    commodo ligula eget dolor. Aenean massa. 
+                    Cum sociis natoque penatibus et magnis dis parturient montes, 
+                    nascetur ridiculus mus.
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <h3 style="margin: 0px; color: #fff;">Cursos</h3>
+                <br/>
+                <ul id="cursos_footer">
+                    <li><a href="#">Cuidados de ancianos</a></li>
+                    <li><a href="#">Higiene</a></li>
+                    <li><a href="#">Cuidados de enfermos</a></li>
+                    <li><a href="#">Ética profesional</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-lg-4">
+                <h3 style="margin: 0px; color: #fff;">Experiencia</h3>
+                <br/>
+                <ul id="experiencia_footer">
+                    <li><a href="#">Hospital de Quilpué</a></li>
+                    <li><a href="#">Hospital de Alto Hospicio</a></li>
+                    <li><a href="#">Hospital Metropolitano de Santiago</a></li>
+                    <li><a href="#">Universidad Viña del Mar</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        
+        <div class="row" style="margin-top: 50px;">
+            <div class="col-lg-12" style="border-top: 1px solid #BDBDBD;">
+                <br/><br/><br/><br/><br/><br/>
+            </div>
+        </div>
+    </div>
+            
+            
         
     </div>
         

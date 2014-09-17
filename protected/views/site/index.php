@@ -162,7 +162,7 @@ p{
 </section>
 
 
-<div class="container-fluid" >
+<div class="container-fluid" id="contenido">
     <div class="row" style="margin-top: 50px;" id="nosotros">
         <div class="col-lg-4 col-md-4 col-sm-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
@@ -253,3 +253,4 @@ p{
                 </div>
     </div>
 </div>
+

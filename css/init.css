@@ -6,39 +6,11 @@
         Purpose of the stylesheet follows.
 */
 
-#author{
-    text-align: right;
-}
-            
-#author > a{
-    color: #D8D8D8;
-    font-size: 10px;
-}
-            
-#author > a >p{
-    display: inline;
-}
-            
-#author > a:hover{
-    color: #0B610B;
+
+#cursos_footer>li>a {
+    color: #fff;
 }
 
-#principal{
-     background: url(../images/fondo.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-#footer{
-    background-color: #099fdc;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-#vlev{
-    background-color: #099fdc;
-    padding-top: 5px;
-    padding-bottom: 5px;
+#experiencia_footer>li>a {
+    color: #fff;
 }
