@@ -99,7 +99,11 @@
     
     
 <section id="slide-1" class="homeSlide">
-    <div class="bcg" data-anchor-target="#slide-1" >
+    <div class="bcg"
+        data-center="background-position: 50% 0px;"
+        data-top-bottom="background-position: 50% -10px;"
+        data-anchor-target="#slide-1"
+    >
         <div id="style" data-100="opacity:1;"  data-350="opacity:0;" data-580="opacity:0;" >
             <div class="container">
                 <div class="row">
@@ -117,21 +121,21 @@
     <div class="row" style="margin-top: 50px;">
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
                 nascetur ridiculus mus.</p>
         </div>
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Visión</h3>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
                 nascetur ridiculus mus.</p>
         </div>
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">¿Qué puedes encontrar?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
                 nascetur ridiculus mus.</p>
@@ -140,10 +144,11 @@
     
     
     <div class="row" style="margin-top: 50px;">
-        <div id="cotizar" class="col-lg-12" style="min-height: 70px; padding-top: 60px; padding-bottom: 60px; border-bottom: 2px solid #D8D8D8; border-top: 2px solid #D8D8D8;">
-            <h1 style="padding: 0px; margin: 0px; text-align: center; font-weight: 300; font-size: 26px;">Solicitar cotización para curso <span class="glyphicon glyphicon-share-alt"></span></h1>
-            
-        </div>
+        <a href="#">
+            <div id="cotizar" class="col-lg-12" style="min-height: 70px; padding-top: 60px; padding-bottom: 60px; border-bottom: 2px solid #D8D8D8; border-top: 2px solid #D8D8D8;">
+                <h1 style="padding: 0px; margin: 0px; text-align: center; font-weight: 300; font-size: 26px;">Solicitar cotización para curso <span class="glyphicon glyphicon-share-alt"></span></h1>
+            </div>
+        </a>
     </div>
     
 </div>
