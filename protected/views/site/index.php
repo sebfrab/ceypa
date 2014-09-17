@@ -72,11 +72,11 @@
 @media (min-width: 1200px) {
     #style{
         font-size: 65px;
-        margin-top: 250px;
+        margin-top: 200px;
     }
     
     .bcg {
-        height: 700px;
+        height: 600px;
     }
 }
 
@@ -99,12 +99,8 @@
     
     
 <section id="slide-1" class="homeSlide">
-    <div class="bcg"
-        data-center="background-position: 50% 0px;"
-        data-top-bottom="background-position: 50% -100px;"
-        data-anchor-target="#slide-1"
-    >
-        <div id="style" data-100="opacity:1;"  data-350="opacity:0;" data-700="opacity:0;" >
+    <div class="bcg" data-anchor-target="#slide-1" >
+        <div id="style" data-100="opacity:1;"  data-350="opacity:0;" data-580="opacity:0;" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">

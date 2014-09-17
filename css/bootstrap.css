@@ -3645,6 +3645,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top: 10px solid #099fdc;
   padding-top: 15px;
   padding-bottom: 15px;
+  background-color: #fff;
   /*margin-bottom: 20px;*/
   /*border: 1px solid transparent;*/
 }
