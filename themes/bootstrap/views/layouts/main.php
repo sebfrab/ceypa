@@ -66,8 +66,10 @@
         </nav>
     </header>
         
+    <div id="skrollr-body">
     <?php echo $content; ?>
-
+    </div>
+        
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/bootstrap.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/skrollr.js"></script>
    
