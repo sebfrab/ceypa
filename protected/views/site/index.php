@@ -26,7 +26,7 @@
     width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('images/fondo3.jpg')}
+#slide-1 .bcg {background-image:url('images/fondo4.jpg')}
 
 #style{
     text-align: center;
@@ -44,6 +44,10 @@
     
     .bcg {
         height: 360px;
+    }
+    
+    a:hover{
+        text-decoration: none;
     }
 }
 
@@ -87,12 +91,30 @@
     -moz-transition: background-color 0.3s ease;
     -o-transition: background-color 0.3s ease;
     transition: background-color 0.3s ease;
-
 }
 
 #cotizar:hover, #cotizar:active, #cotizar:focus{
     background-color: #099fdc;
     color: #fff;
+}
+p{
+    color: #595959;
+}
+
+#owl-demo .item{
+    background: rgba(255, 253, 77, 0.3);
+    padding: 2px 1px 2px 1px;
+    margin: 10px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#owl-demo .item img{
+    width: 100%;
+    opacity: 2.0;
 }
 
 </style>
@@ -108,8 +130,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p style="font-weight: 100;">CENTRO DE ESTUDIOS Y </p>
-                        <p>PERFECCIONAMIENTO ANDINO</P>
+                        <p style="font-weight: 100; color: #fff;">CENTRO DE ESTUDIOS Y </p>
+                        <p style="color: #fff;">PERFECCIONAMIENTO ANDINO</P>
                 </div>
             </div>
         </div>
@@ -121,34 +143,70 @@
     <div class="row" style="margin-top: 50px;">
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-thumbs-up col-lg-2"></span>
+            <p style="text-align: justify;" class="col-lg-10">
+                
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
-                nascetur ridiculus mus.</p>
+                nascetur ridiculus mus.
+            </p>
         </div>
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Visión</h3>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-eye-open col-lg-2"></span>
+            <p style="text-align: justify;" class="col-lg-10">
+                
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
-                nascetur ridiculus mus.</p>
+                nascetur ridiculus mus.
+            </p>
         </div>
         <div class="col-lg-4">
             <h3 style="text-align: center; font-weight: 300;">¿Qué puedes encontrar?</h3>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-map-marker col-lg-2"></span>
+            <p style="text-align: justify;" class="col-lg-10">
+                
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
                 Cum sociis natoque penatibus et magnis dis parturient montes, 
-                nascetur ridiculus mus.</p>
+                nascetur ridiculus mus.
+            </p>
         </div>
     </div>
     
     
-    <div class="row" style="margin-top: 50px;">
+    <div class="row" style="margin-top: 70px;">
         <a href="#">
             <div id="cotizar" class="col-lg-12" style="min-height: 70px; padding-top: 60px; padding-bottom: 60px; border-bottom: 2px solid #D8D8D8; border-top: 2px solid #D8D8D8;">
                 <h1 style="padding: 0px; margin: 0px; text-align: center; font-weight: 300; font-size: 26px;">Solicitar cotización para curso <span class="glyphicon glyphicon-share-alt"></span></h1>
             </div>
         </a>
+    </div>
+    
+    
+    <div class="row" style="margin-top: 70px;">
+        <div  id="row">
+                <div class="col-lg-3">
+                    <h3>Cursos</h3>
+                    <p style="text-align: justify;">
+                        Impartimos cursos de capacitación en todo Chile,
+                        sobre: Cuidados de ancianos, Higiene, Cuidados de enfermos
+                        Ética profesional.
+                        
+                    </p>
+                </div>
+                <div class="col-lg-9">
+                    <div id="owl-demo" class="owl-carousel owl-theme">
+                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/1.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/1rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/2.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/3.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/4.jpg" alt="La Rompepaga"/></a></div>
+                        <div class="item"><a rel="group" href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/2rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/5.jpg" alt="La Rompepaga"/></a></div>
+                    </div>
+                </div>
+            </div>
     </div>
     
 </div>

@@ -17,6 +17,8 @@
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/normalize.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/hover.css" />
+        <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/owl-carousel/owl.carousel.css" />
+        <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/owl-carousel/owl.theme.css" />
         
         <?php Yii::app()->clientScript->registerCoreScript('jquery'); ?>
         
@@ -75,15 +77,21 @@
         
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/bootstrap.js"></script>
     <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/skrollr.js"></script>
-   
+    <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/owl-carousel/owl.carousel.js"></script>
     
     <script>
         var s = skrollr.init({
         render: function(data) {
             //Debugging - Log the current scroll position.
             //console.log(data.curTop);
-        }
-    });
+            }
+        });
+    
+        $(document).ready(function() {
+            $("#owl-demo").owlCarousel({
+                navigation : false
+            });
+        });
     </script>
     
     </body>
