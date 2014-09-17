@@ -90,7 +90,7 @@
 
 }
 
-#cotizar:hover{
+#cotizar:hover, #cotizar:active{
     background-color: #099fdc;
     color: #fff;
 }
