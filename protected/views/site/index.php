@@ -26,7 +26,7 @@
     width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('images/fondo4.jpg')}
+#slide-1 .bcg {background-image:url('images/fondo_final.jpg')}
 
 #style{
     text-align: center;
@@ -60,6 +60,10 @@
     .bcg {
         height: 500px;
     }
+    
+    a:hover{
+        text-decoration: none;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -70,6 +74,10 @@
     
     .bcg {
         height: 600px;
+    }
+    
+    a:hover{
+        text-decoration: none;
     }
 }
 
@@ -141,10 +149,10 @@ p{
 
 <div class="container-fluid" >
     <div class="row" style="margin-top: 50px;">
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-4 col-sm-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Misión</h3>
-            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-thumbs-up col-lg-2"></span>
-            <p style="text-align: justify;" class="col-lg-10">
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-thumbs-up col-lg-2 col-md-2 hidden-sm hidden-xs"></span>
+            <p style="text-align: justify;" class="col-lg-10 col-md-10 col-sm-12">
                 
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
@@ -152,10 +160,10 @@ p{
                 nascetur ridiculus mus.
             </p>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-4 col-sm-4">
             <h3 style="text-align: center; font-weight: 300;">Nuestra Visión</h3>
-            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-eye-open col-lg-2"></span>
-            <p style="text-align: justify;" class="col-lg-10">
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-eye-open col-lg-2 col-md-2 hidden-sm hidden-xs"></span>
+            <p style="text-align: justify;" class="col-lg-10 col-md-10 col-sm-12">
                 
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
@@ -163,10 +171,10 @@ p{
                 nascetur ridiculus mus.
             </p>
         </div>
-        <div class="col-lg-4">
-            <h3 style="text-align: center; font-weight: 300;">¿Qué puedes encontrar?</h3>
-            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-map-marker col-lg-2"></span>
-            <p style="text-align: justify;" class="col-lg-10">
+        <div class="col-lg-4 col-md-4 col-sm-4">
+            <h3 style="text-align: center; font-weight: 300;">¿Qué encontrar?</h3>
+            <span style="font-size: 30px; margin-top: 20px; color: #099fdc;" class="glyphicon glyphicon-map-marker col-lg-2 col-md-2 hidden-sm hidden-xs"></span>
+            <p style="text-align: justify;" class="col-lg-10 col-md-10 col-sm-12">
                 
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean 
                 commodo ligula eget dolor. Aenean massa. 
