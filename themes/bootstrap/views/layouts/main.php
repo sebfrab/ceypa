@@ -34,7 +34,7 @@
                 <div class="navbar-default navbar-collapse">
                     <div class="container">
                         <div style="text-align: right;" class="col-lg-12 hidden-xs">
-                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">56 996836377</a>
+                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">(<span style="font-size: 10px;">+</span>569)996836377</a>
                             <a class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a>
                         </div>
                         <div class="navbar-header">
@@ -57,7 +57,7 @@
                                                 array('label'=>'<span class="glyphicon glyphicon-thumbs-up"></span> NOSOTROS', 'url'=>'./#nosotros'),
                                                 array('label'=>'<span class="glyphicon glyphicon-pushpin"></span> CURSOS', 'url'=>'./#cursos'),
                                                 array('label'=>'<span class="glyphicon glyphicon-signal"></span> EXPERIENCIA', 'url'=>'./#experiencia'),
-                                                array('label'=>'<span class="glyphicon glyphicon-envelope"></span> CONTACTO', 'url'=>'#'),
+                                                array('label'=>'<span class="glyphicon glyphicon-envelope"></span> CONTACTO', 'url'=>'site/Contact'),
                                         ),
                                     'encodeLabel' => false,
                                 )); ?> 
@@ -70,7 +70,7 @@
         
     
     <?php echo $content; ?>
-    <div class="container-fluid" style="height: 20px; background: url('images/footer_bg_shadow.png') repeat-x scroll left top transparent; background-color: #099fdc; margin-top: 30px; ">
+    <div class="container-fluid" id="footer_zigzag">
     </div>
     
     <div class="container-fluid" style="background-color: #099fdc; padding-top: 60px;">
@@ -107,10 +107,14 @@
             </div>
         </div>
         
-        
         <div class="row" style="margin-top: 50px;">
-            <div class="col-lg-12" style="border-top: 1px solid #BDBDBD;">
-                <br/><br/><br/><br/><br/><br/>
+            <div class="col-lg-12" style="border-top: 1px solid #BDBDBD; padding-top: 30px; padding-bottom: 50px;">
+                <p>
+                   <a style="color: #fff;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">(<span style="font-size: 10px;">+</span>569)996836377</a><br/>
+                   <a style="color: #fff; margin-top: 5px;" class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a> 
+                </p>
+                
+                
             </div>
         </div>
     </div>
