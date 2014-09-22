@@ -34,7 +34,7 @@
                 <div class="navbar-default navbar-collapse">
                     <div class="container">
                         <div style="text-align: right;" class="col-lg-12 hidden-xs">
-                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">(<span style="font-size: 10px;">+</span>569)996836377</a>
+                            <a style="margin-right: 30px;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377"> (<span style="font-size: 8px;">+</span>569) 996836377</a>
                             <a class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a>
                         </div>
                         <div class="navbar-header">
@@ -110,7 +110,7 @@
         <div class="row" style="margin-top: 50px;">
             <div class="col-lg-12" style="border-top: 1px solid #BDBDBD; padding-top: 30px; padding-bottom: 50px;">
                 <p>
-                   <a style="color: #fff;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377">(<span style="font-size: 10px;">+</span>569)996836377</a><br/>
+                   <a style="color: #fff;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377"> (<span style="font-size: 8px;">+</span>569) 996836377</a><br/>
                    <a style="color: #fff; margin-top: 5px;" class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a> 
                 </p>
                 
