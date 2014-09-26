@@ -114,13 +114,15 @@
                    <a style="color: #fff;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377"> (<span style="font-size: 8px;">+</span>569) 996836377</a><br/>
                    <a style="color: #fff; margin-top: 5px;" class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a> 
                 </p>  
-                <object style="height: 100px;" class="col-lg-4" type="text/html" data="http://sefb.cl">
+                <object style="height: 100px;" class="col-lg-4" type="text/html" data="http://sefb">
                     <p>Sebastian Franco Brantes</p>
                 </object>
             </div>
         </div>
         </div>
-    </div>   
+    </div>
+            
+            
         
     </div>
         
