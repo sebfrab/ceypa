@@ -68,12 +68,13 @@
         </nav>
     </header>
         
-    
-    <?php echo $content; ?>
+    <?php echo $content; ?>    
+            
     <div class="container-fluid" id="footer_zigzag">
     </div>
     
     <div class="container-fluid" style="background-color: #099fdc; padding-top: 60px;">
+        <div class="container">
         <div class="row">
             <div class="col-lg-4">
                 <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/ceypaLogo.jpg" style="margin-bottom: 10px;" />
@@ -109,13 +110,15 @@
         
         <div class="row" style="margin-top: 50px;">
             <div class="col-lg-12" style="border-top: 1px solid #BDBDBD; padding-top: 30px; padding-bottom: 50px;">
-                <p>
+                <p class="col-lg-8">
                    <a style="color: #fff;" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377"> (<span style="font-size: 8px;">+</span>569) 996836377</a><br/>
                    <a style="color: #fff; margin-top: 5px;" class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a> 
-                </p>
-                
-                
+                </p>  
+                <object style="height: 100px;" class="col-lg-4" type="text/html" data="http://sefb.cl">
+                    <p>Sebastian Franco Brantes</p>
+                </object>
             </div>
+        </div>
         </div>
     </div>
             

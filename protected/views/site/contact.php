@@ -1,6 +1,9 @@
 
 
-<h1 style="text-align: center;">Escríbenos o llámanos, responderemos a la brevedad </h1>
+<div class="col-lg-7">
+
+<h3 style="text-align: justify;">Escríbenos o llámanos, responderemos a la brevedad </h3>
+<br/>
 
 <?php if(Yii::app()->user->hasFlash('contact')): ?>
 
@@ -9,7 +12,6 @@
 </div>
 
 <?php else: ?>
-
 
 <div class="form">
 
@@ -66,3 +68,18 @@
 
 <?php endif; ?>
 
+</div>
+
+<div class="col-lg-1"></div>
+
+<div class="col-lg-4" style="padding-top: 90px;">
+    <p style="text-align: justify;">
+        Póngase en contacto con Ceypa, 
+        utilice el siguiente formulario para cotizar, 
+        consultar y otros. Responderemos en las proximas horas . 
+    </p>
+        <p>
+                   <a style="" class="glyphicon glyphicon-phone-alt" href="tel:+56996836377"> (<span style="font-size: 8px;">+</span>569) 996836377</a><br/>
+                   <a style=" margin-top: 5px;" class="glyphicon glyphicon-envelope" href="mailto:contacto@ceypa.cl"> contacto@ceypa.cl</a> 
+     </p>  
+</div>

@@ -5950,3 +5950,211 @@ Stack trace:
 REQUEST_URI=/ceypa/site/images/footer_bg_shadow.png
 HTTP_REFERER=http://localhost/ceypa/site/Contact
 ---
+2014/09/23 10:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud ".images/ceypaLogo.jpg"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('.images/ceypaLo...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/.images/ceypaLogo.jpg
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/24 08:43:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/24 08:43:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/25 10:29:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/sdf
+---
+2014/09/25 10:29:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:30:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:30:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:30:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:30:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:30:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+---
+2014/09/25 10:30:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "images" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('images')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('images')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/images/sli...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/images/slide2.jpg
+HTTP_REFERER=http://localhost/ceypa/site/contact/
+---
+2014/09/25 10:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "localhost/sefb/site/contact"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('localhost/sefb/...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/localhost/sefb/site/contact
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 10:54:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "localhost/sefb/site/contact"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('localhost/sefb/...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/localhost/sefb/site/contact
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 10:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "localhost" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('localhost')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('localhost')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/localhost/...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/localhost/sefb/site/contact
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 10:58:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "some.html" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('some.html')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('some.html')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/some.html')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/some.html
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 10:58:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "www.google.cl" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('www.google.cl')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('www.google.cl')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/www.google...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/www.google.cl
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 11:00:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---
+2014/09/25 11:00:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "www.google.cl"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('www.google.cl')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/www.google.cl
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/25 11:00:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "www.google.cl/html.cl"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('www.google.cl/h...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/www.google.cl/html.cl
+HTTP_REFERER=http://localhost/ceypa/
+---
+2014/09/25 11:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "www.google.cl" solicitada.' in C:\xampp\htdocs\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(270): CController->missingAction('www.google.cl')
+#1 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('www.google.cl')
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/www.google...')
+#3 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/ceypa/site/www.google.cl/html.cl
+HTTP_REFERER=http://localhost/ceypa/site/Contact
+---
+2014/09/25 14:06:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/sol.ico"' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/sol.ico')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ceypa\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ceypa/images/sol.ico
+---

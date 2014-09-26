@@ -147,7 +147,6 @@ p{
     <div class="bcg"
         data-center="background-position: 50% 0px;"
         data-top-bottom="background-position: 50% -10px;"
-        data-anchor-target="#slide-1"
     >
         <div id="style" data-100="opacity:1;"  data-350="opacity:0;" data-580="opacity:0;" >
             <div class="container">
@@ -201,7 +200,7 @@ p{
     
     
     <div class="row" style="margin-top: 70px;">
-        <a href="#">
+        <a href="<?php echo Yii::app()->createUrl('/site/contact'); ?>">
             <div id="cotizar" class="col-lg-12" style="min-height: 70px; padding-top: 60px; padding-bottom: 60px; border-bottom: 2px solid #D8D8D8; border-top: 2px solid #D8D8D8;">
                 <h1 style="padding: 0px; margin: 0px; text-align: center; font-weight: 300; font-size: 26px;">Solicitar cotización para curso <span class="glyphicon glyphicon-share-alt"></span></h1>
             </div>
@@ -217,7 +216,6 @@ p{
                         Impartimos cursos de capacitación en todo Chile,
                         sobre: Cuidados de ancianos, Higiene, Cuidados de enfermos
                         Ética profesional.
-                        
                     </p>
                 </div>
                 <div class="col-lg-9 col-md-10">
@@ -242,15 +240,15 @@ p{
         </div>
         
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div id="owl-demo2" class="owl-carousel owl-theme">
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_quilpue.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/municipalidad_alto_hospicio.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_metropolitano.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_uvm.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_gustavo_fricke.jpg" alt="La Rompepaga"/></a></div>
-                        <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_van_buren.jpg" alt="La Rompepaga"/></a></div>
-                    </div>
-                </div>
+            <div id="owl-demo2" class="owl-carousel owl-theme">
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_quilpue.jpg" alt="La Rompepaga"/></a></div>
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/municipalidad_alto_hospicio.jpg" alt="La Rompepaga"/></a></div>
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_metropolitano.jpg" alt="La Rompepaga"/></a></div>
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_uvm.jpg" alt="La Rompepaga"/></a></div>
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_gustavo_fricke.jpg" alt="La Rompepaga"/></a></div>
+                <div class="item"><a href="http://www.larompepaga.cl/wp-content/themes/LaRompe1/images/8rompe.jpg"><img src="<?php echo Yii::app()->request->baseUrl; ?>/images/experiencia/logo_hospital_van_buren.jpg" alt="La Rompepaga"/></a></div>
+            </div>
+        </div>
     </div>
 </div>
 
